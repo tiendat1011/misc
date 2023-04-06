@@ -1,0 +1,11 @@
+C:\Users\PC MSI\source\repos\TCPChat\TCPChat\bin\Debug\TCPChat.exe.config
+C:\Users\PC MSI\source\repos\TCPChat\TCPChat\bin\Debug\TCPChat.exe
+C:\Users\PC MSI\source\repos\TCPChat\TCPChat\bin\Debug\TCPChat.pdb
+C:\Users\PC MSI\source\repos\TCPChat\TCPChat\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\PC MSI\source\repos\TCPChat\TCPChat\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC MSI\source\repos\TCPChat\TCPChat\obj\Debug\TCPChat.Properties.Resources.resources
+C:\Users\PC MSI\source\repos\TCPChat\TCPChat\obj\Debug\TCPChat.ServerForm.resources
+C:\Users\PC MSI\source\repos\TCPChat\TCPChat\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\PC MSI\source\repos\TCPChat\TCPChat\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\PC MSI\source\repos\TCPChat\TCPChat\obj\Debug\TCPChat.exe
+C:\Users\PC MSI\source\repos\TCPChat\TCPChat\obj\Debug\TCPChat.pdb
